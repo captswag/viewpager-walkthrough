@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ViewPager Walkthrough</string>
+    <string name="placeholder">Viewpager image</string>
+
+    <string name="layout_1_title">Welcome to artattack</string>
+    <string name="layout_1_desc">The new art world destination to Share, Sell &#38; Network. To get started, scroll through these quick tips.</string>
+    <string name="layout_2_title">Discover art</string>
+    <string name="layout_2_desc">Discover users you want to follow through our latest art feed and curated art collections.</string>
+    <string name="layout_3_title">Share &#38; sell</string>
+    <string name="layout_3_desc">Share or sell your artwork with the world! Post up to 4 images of each piece, plus works in progress and artistic inspirations.</string>
+    <string name="layout_4_title">Search</string>
+    <string name="layout_4_desc">Whether you are looking for a specific genre, medium, style or beyond, it\'\s as simple as #!</string>
+</resources>
